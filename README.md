@@ -1,5 +1,5 @@
 # ![](./final.png)
-# ![](./star.png)
+# ![](./Star.png)
 # Banner
 <table>
 <tr>
